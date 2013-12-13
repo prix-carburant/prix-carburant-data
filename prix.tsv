@@ -1,40 +1,151 @@
-id	gasoil	sp95	sp95e10	sp98	gpl	brand	name	address
 1000001	1.304	1.499		1.535		        Carrefour Market	        Carrefour Market	ROUTE NATIONALE 01000 SAINT-DENIS-LÈS-BOURG
 1000002	1.304	1.499		1.535		        Carrefour Market	        Carrefour Market	16 Avenue de Marboz 01000 BOURG-EN-BRESSE
-1000004								
-1000005	1.410		1.500	1.590		        Total	        RELAIS DES VAVRES	642 Avenue de Trévoux 01000 SAINT-DENIS-LÈS-BOURG
+1000004	1.430	1.600			0.950	        Total	        SARL WALES DISTRIBUTION	20 Avenue du Maréchal Juin 01000 BOURG-EN-BRESSE
+1000005	1.400		1.500	1.590		        Total	        RELAIS DES VAVRES	642 Avenue de Trévoux 01000 SAINT-DENIS-LÈS-BOURG
 1000006	1.309	1.529		1.569		        Casino	        CASINO SUPERMARCHE	1 Boulevard John Kennedy 01000 BOURG-EN-BRESSE
-1000007								
-1000008								
-1000009	1.304	1.499	1.458	1.535		        Intermarché	        INTERMARCHE BOURG EN BRESSE	56 Rue du Stand 01000 BOURG-EN-BRESSE
-1000010	1.304		1.457	1.543		        Total Access	        TOTAL ACCESS	Boulevard Charles de Gaulle 01000 BOURG-EN-BRESSE
-1090001	1.299	1.495	1.489	1.524		        Simply Market	        SIMPLY MARKET	LE GRAND RIVOLET 01090 MONTCEAUX
+1000007	1.299	1.494	1.453	1.530		        Leclerc	        CENTRE E. LECLERC	Avenue Amédée Mercier 01000 BOURG-EN-BRESSE
+1000008	1.302	1.499	1.457	1.535		        Carrefour	        Carrefour   bourg en bresse	Bd Charles de Gaulle 01000 BOURG-EN-BRESSE
+1000009	1.302	1.499	1.457	1.535		        Intermarché	        INTERMARCHE BOURG EN BRESSE	56 Rue du Stand 01000 BOURG-EN-BRESSE
+1000010	1.302		1.457	1.539		        Total Access	        TOTAL ACCESS	Boulevard Charles de Gaulle 01000 BOURG-EN-BRESSE
+1090001	1.289	1.474	1.489	1.512		        Simply Market	        SIMPLY MARKET	LE GRAND RIVOLET 01090 MONTCEAUX
 1100001	1.285	1.475	1.455		0.840	        Géant	        GEANT CASINO	ROUTE DE DORTAN 01100 ARBENT
 1100002	1.285	1.475		1.542		        Carrefour Market	        Carrefour Market	Rue Brillat-Savarin 01100 OYONNAX
-1100003	1.379		1.523	1.603	0.880	        Total	        RELAIS DES CRETETS	174 Cours de Verdun 01100 OYONNAX
+1100003	1.379		1.509	1.589	0.890	        Total	        RELAIS DES CRETETS	174 Cours de Verdun 01100 OYONNAX
 1100004	1.379	1.569		1.609		        Avia	        STATION SERVICE AVIA	886 AVENUE JEAN COUTTY 01100 ARBENT - OYONNAX
 1100006	1.285	1.475				        Intermarché	        DB OYONNAX	74 Rue Jules Michelet 01100 OYONNAX
 1110001	1.300	1.480		1.510		        Carrefour Market	        Carrefour Market	Rue Massonod 01110 HAUTEVILLE-LOMPNES
 1120002	1.459		1.599	1.679		        Total	        RELAIS DE DAGNEUX	AUTOROUTE A 42 01120 DAGNEUX
-1120004	1.304	1.494		1.545		        Système U	        SUPER U MONTLUEL	Cours de la Portelle 01120 MONTLUEL
+1120004	1.296	1.489		1.539		        Système U	        SUPER U MONTLUEL	Cours de la Portelle 01120 MONTLUEL
 1120005	1.256	1.489	1.449	1.539		        Intermarché	        INTERMARCHE LA BOISSE-MONTLUEL	Route de Thil 01120 LA BOISSE
-1120006								
+1120006	1.410		1.560	1.640		        Total	        GARAGE DE LA BOISSE	521 ROUTE NATIONALE 01120 LA BOISSE
 1120007	1.469		1.599	1.679		        Shell	        SHELL	AUTOROUTE A42, AIRE DE LYON-DAGNEUX 01120 DAGNEUX
-1130001	1.312		1.487	1.532		        Elf	        RELAIS ELF  RESIDENCE	ROUTE DE LA CLUSE 01130 NANTUA
+1130001	1.302		1.476	1.528		        Elf	        RELAIS ELF  RESIDENCE	ROUTE DE LA CLUSE 01130 NANTUA
 1130002	1.371	1.555		1.593		        Avia	        SARL GARAGE MEUNIER	Moulin de Charix 01130 LALLEYRIAT
 1140001	1.329	1.499		1.549		        Carrefour Contact	        CARREFOUR CONTACT	LES HUGUETS 01140 SAINT-DIDIER-SUR-CHALARONNE
-1150001								
-1150002	1.370		1.537	1.617		        Total	        TOTAL SAINT VULBAS	Avenue Charles de Gaulle 01150 SAINT-VULBAS
-1160001	1.307		1.452			        Total Access	        RELAIS DU CHENE	Route de bourg 01160 PONT-D&#039;AIN
+1150001	1.319	1.509		1.529		        Carrefour Market	        Carrefour Market	8 RUE DE L&#039;INDUSTRIE 01150 LAGNIEU
+1150002	1.360		1.537	1.617		        Total	        TOTAL SAINT VULBAS	Avenue Charles de Gaulle 01150 SAINT-VULBAS
+1160001	1.299		1.452			        Total Access	        RELAIS DU CHENE	Route de bourg 01160 PONT-D&#039;AIN
 1160002	1.300	1.480	1.450	1.510		        Système U	        SUPER U	Le Pont Rompu - RD 1084 01160 PONT-D&#039;AIN
-1160003	1.315	1.499		1.515		        Ecomarché	        ECOMARCHE NEUVILLE SUR AIN	Rue du Docteur Hubert 01160 NEUVILLE-SUR-AIN
+1160003	1.295	1.475		1.499		        Ecomarché	        ECOMARCHE NEUVILLE SUR AIN	Rue du Docteur Hubert 01160 NEUVILLE-SUR-AIN
 1170001	1.305	1.489		1.510		        Carrefour	        CARREFOUR SEGNY	RN5 01170 SÉGNY
 1170002	1.338	1.504		1.534		        Carrefour Market	        Carrefour Market	Lieu-Dit les Vertes Campagnes 01170 GEX
 1170003	1.330	1.520		1.540		        Intermarché	        INTERMARCHE GEX	Route de Divonne les Bains 01170 GEX
 1170005	1.359	1.549		1.592		        Avia	        Station des Tilleuls	Avenue des Tilleuls 01170 GEX
 1190001	1.330	1.519		1.510		        Atac	        ATAC Saint Bénigne	PAE Pont de Vaux Est 01190 SAINT BÉNIGNE
 1200001	1.319	1.499		1.539		        Carrefour Market	        Carrefour Market	69 Rue de la République 01200 BELLEGARDE-SUR-VALSERINE
-1200003								
+1200003	1.319	1.499	1.479	1.539		        Carrefour Market	        CARREFOUR MARKET HYPER	Avenue Maréchal de Lattre de Tassigny 01200 BELLEGARDE-SUR-VALSERINE
 1210001	1.315	1.495		1.529		        Carrefour	        CARREFOUR FERNEY VOLTAIRE	Chemin de la Brunette 01210 FERNEY-VOLTAIRE
-1210002								
-
+1210002	1.370	1.560		1.640		        Total	        GARAGE DUNAND	ROUTE DE GENEVE 01210 FERNEY-VOLTAIRE
+1210003	1.300	1.484	1.450			        Leclerc	        CENTRE E.LECLERC	Route de Meyrin 01210 FERNEY-VOLTAIRE
+1220001	1.326	1.516		1.560		        Carrefour Market	        Carrefour Market	691 AVENUE DU CRET D&#039;EAU 01220 DIVONNE-LES-BAINS
+1230002	1.380	1.560		1.590		        Avia	        SARL MATHY GARAGE DE L EUROPE	38 AVENUE DE L EUROPE 01230 SAINT-RAMBERT-EN-BUGEY
+1230003	1.390	1.560		1.590		        Elan	        STATION ELAN GARAGE BOLLEY	RD 1504 01230 TORCIEU
+1240001	1.430	1.620				        Indépendant sans enseigne	        GARAGE CHAUDIER	LE BOURG 01240 DOMPIERRE-SUR-VEYLE
+1250001	1.474		1.604	1.684	0.960	        Total	        RELAIS BOURG JASSERON	A 40 - AIRE DE BOURG JASSERON 01250 JASSERON
+1250002	1.480		1.610		0.960	        BP	        BP A40 AIRE DE BOURG TEYSONGUE	AIRE DE BOURG TEYSONGUE A 40 01250 CEYZÉRIAT
+1250004	1.349	1.559				        Avia	        AVIA	route de la Vavrette 01250 TOSSIAT
+1270002	1.409	1.589		1.619		        Avia	        Station des sens	Grande Rue 01270 COLIGNY
+1290001	1.320	1.490		1.530		        Système U	        SUPER U	Route de Chatillon Sur Chalaronne 01290 LAIZ
+1300001	1.319	1.502		1.529		        Carrefour Market	        Carrefour Market	ZAC DE L#039;OUSSON 01300 BELLEY
+1300002	1.309	1.499		1.519		        Simply Market	        SIMPLY MARKET	Rue Mante 01300 BELLEY
+1300003	1.308	1.498		1.526		        Intermarché	        INTERMARCHE CHAZEY BONS	RN 504 - ZI de Penaye 01300 CHAZEY-BONS
+1310001	1.375	1.594	1.554	1.634		        Total	        GARAGE GUIGUE SA	1123 Route de Mâcon 01310 POLLIAT
+1320001	1.420	1.600				        Elan	        SARL JACQUET AUTOMOBILES	Grande Rue 01320 CHALAMONT
+1320002	1.310	1.519	1.481			        Casino	        DISTRIBUTION CASINO FRANCE	Chemin du Petit Étang 01320 CHALAMONT
+1330001	1.429	1.589		1.649		        Total	        SARL BUTILLON	245, Route du 3 Septembre 1944 01330 AMBÉRIEUX-EN-DOMBES
+1330002	1.299	1.479	1.449	1.539		        Système U	        super u	zac de la tuilerie 01330 VILLARS-LES-DOMBES
+1340001	1.299	1.493		1.529		        Carrefour Market	        Carrefour Market	Rue des Luyers 01340 MONTREVEL-EN-BRESSE
+1340002	1.415		1.543	1.623		        Total	        SARL GOYARD	RN.75 01340 MALAFRETAZ
+1340003	1.299	1.493		1.529		        Intermarché	        INTERMARCHE MONTREVEL EN BRESSE	Les Cézilles 01340 JAYAT
+1340004	1.375	1.583				        Dyneff	        GARAGE DES PRÉS	771 Route de Bourg 01340 ATTIGNAT
+1350001	1.315	1.493		1.515		        Carrefour Market	        Carrefour Market	Avenue Jean Falconnier 01350 CULOZ
+1350003	1.298	1.491		1.527		        Netto	        NETTO BEON	PARC D#039;ACTIVIT DES FOURS 01350 BÉON
+1360002	1.459	1.579				        Elan	        Station service ELAN	Route de Lyon 01360 BALAN
+1370001	1.384	1.554		1.599	0.940	        Indépendant sans enseigne	        SARL CIRA DISTRIBUTION	Route de Strasbourg 01370 SAINT-ÉTIENNE-DU-BOIS
+1390001	1.296	1.505		1.562		        Carrefour Market	        Carrefour Market	Allées des Marronniers 01390 SAINT-ANDRÉ-DE-CORCY
+1390002	1.370		1.540	1.620		        Total	        RELAIS SAINT ANDRE DE CORCY	Z.I. DE CURE 01390 SAINT-ANDRÉ-DE-CORCY
+1390004	1.469		1.599	1.669	0.940	        Agip	        AGIP AIRE DE MIONNAY OUEST GALMIER A46 SENS PARIS-MARSEILLE	AIRE DE MIONNAY OUEST GALMIER A46 01390 MIONNAY
+1390006	1.469		1.589	1.659	0.940	        Agip	        AIRE DE MIONNAY EST	Autoroute A46 Sens Sud Nord 01390 MIONNAY
+1400001	1.293	1.478		1.518		        Carrefour Market	        Carrefour Market	AVENUE MARECHAL FOCH 01400 CHATILLON-SUR-CHALARONNE
+1400003	1.450	1.640				        Elan	        GARAGE CENTRAL TASPINAR	AVENUE PIERRE MARCAULT 01400 CHATILLON SUR CHALARONNE
+1400005	1.293	1.478		1.518		        Intermarché	        INTERMARCHE CHATILLON /CHALARONN	Avenue Jean Jaurès 01400 CHATILLON SUR CHALARONNE
+1430001	1.474		1.604	1.684	0.960	        Total	        RELAIS DE CEIGNES CERDON	AUTOROUTE A 40 - SENS PARIS PROV 01430 CEIGNES
+1430003	1.470		1.610	1.700	0.940	        Agip	        AGIP CEIGNES A40 SENS ANNECY BOURG EN BRESSE	AIRE DE CEIGNES HAUT BUGEY 01430 CEIGNES
+1430004	1.428	1.608	1.586			        Indépendant sans enseigne	        GARAGE  MURET	2 RUE DE L#039; EGALITE 01430 MAILLAT
+1440001	1.440	1.600				        Total	        GARAGE BERRODIER	1029 ROUTE DE MARBOZ-LOUHANS 01440 VIRIAT
+1440002	1.380		1.540	1.620		        Total	        STE DU VEHICULE INDUSTRIEL SAS	Route de Strasbourg 01440 VIRIAT
+1440003	1.349	1.559				        Avia	        AVIA	261 Route de Paris 01440 VIRIAT
+1460001	1.319	1.500		1.519		        Carrefour Market	        Carrefour Market	68 Rue du Juras 01460 MONTREAL-LA-CLUSE
+1460002	1.420	1.590				        Indépendant sans enseigne	        ETS CRAUSAZ	Route de Berthiand 01460 NURIEUX-VOLOGNAT
+1460003	1.299	1.495	1.475	1.519		        Intermarché	        INTERMARCHE PORT	Rue de l&#039;industrie 01460 PORT
+1470001	1.400	1.590	1.630	1.620		        Avia	        STATION SERVICE AVIA	LES GRANGES DE MONTAGNIEU 01470 MONTAGNIEU
+1470002	1.309		1.473	1.536		        Intermarché	        Intermarché Briord	Rue des Verchères 01470 BRIORD
+1480001	1.291	1.478		1.508		        Carrefour Market	        Carrefour Market	Rue Édouard Herriot 01480 JASSANS-RIOTTIER
+1500001	1.319	1.509		1.529		        Carrefour Market	        Carrefour Market	Rue Alexandre Bérard 01500 AMBÉRIEU-EN-BUGEY
+1500003	1.380	1.560				        Total	        RELAIS CHATEAU-GAILLARD	550, Avenue Jean Mermoz 01500 CHÂTEAU-GAILLARD
+1500004	1.380	1.560		1.600		        Avia	        GARAGE VINCENT SAS	15 Avenue de la Libération 01500 AMBÉRIEU-EN-BUGEY
+1500006	1.380	1.560				        Avia	        LE RELAIS DE CHATEAU-GAILLARD	550, RUE JEAN MERMOZ 01500 CHÂTEAU-GAILLARD
+1500007	1.299	1.489	1.479		0.849	        Intermarché	        INTERMARCHE AMBERIEU EN BUGEY	CENTRE COMMERCIAL DE L&#039;AVIATIONRAIS 01500 AMBÉRIEU-EN-BUGEY
+1510001	1.314	1.504		1.539		        Carrefour Contact	        CARREFOUR CONTACT ARTEMARE	1 RUE DES CHAMPS 01510 ARTEMARE
+1510002	1.400	1.590		1.620		        Avia	        Garage de La Gare	Chef Lieu 01510 VIRIEU-LE-GRAND
+1540001	1.299	1.494		1.530		        Carrefour Market	        Carrefour Market	Route de Neuville 01540 VONNAS
+1540002	1.299	1.494	1.474			        Netto	        Netto	za les grands varays rte de neuville 01540 VONNAS
+1570001	1.306	1.484				        Intermarché	        Intermarché	Grande Rue 01570 FEILLENS
+1590001	1.333	1.493		1.555		        Avia	        GARAGE CLAUDE SARL	Rue du 21 Juillet 1944 01590 DORTAN
+1590002	1.305	1.509	1.455			        Intermarché Contact	        INTERMARCHE	ZAC sous la Combe 01590 LAVANCIA-EPERCY
+1600001	1.304	1.494		1.545		        Carrefour Market	        Carrefour Market	Rue du Figuier 01700 MIRIBEL
+1600002	1.276	1.478		1.525		        Carrefour Market	        Carrefour Market	324 Route de Lyon 01600 TREVOUX
+1600003	1.276	1.478	1.526	1.525		        Simply Market	        SIMPLY MARKET	Avenue Lavoisier 01600 MASSIEUX
+1630001	1.329	1.519		1.549		        Carrefour Market	        Carrefour Market	RUE DE GENEVE 01630 SAINT-GENIS-POUILLY
+1630002	1.390	1.580				        Avia	        GARAGE RENAULT - P.YVES HUISSOUD	50 Rue de la Faucille 01630 SAINT-GENIS-POUILLY
+1630003	1.300		1.450	1.505		        Intermarché	        INTERMARCHE ST GENIS POUILLY	148 Rue des Chalets 01630 SAINT-GENIS-POUILLY
+1630004	1.300	1.541	1.450	1.505		        Ecomarché	        ECOMARCHE PERON ECOMARCHE	ZA DU PRE MUNNY 01630 PÉRON
+1640001	1.439	1.599				        Elan	        GARAGE CEYZERIAT	route 01640 SAINT-JEAN-LE-VIEUX
+1700003	1.296		1.482	1.562		        Esso Express	        ESSO LES ECHETS	RN 83 01700 MIRIBEL
+1700004	1.296	1.489	1.449	1.539	0.829	        Leclerc	        SAS BEDIS	ZAC des Beterses 01700 BEYNOST
+1710001	1.300	1.485		1.505		        MIGROS	        MIGROS	route de Bellegarde 01710 THOIRY
+1750001	1.306	1.484	1.439			        Intermarché	        INTERMARCHE REPLONGES	223 route de Bourg-en-Bresse 01750 REPLONGES
+1800001	1.296	1.489		1.539		        Carrefour Market	        Carrefour Market	47 Route de Lyon 01800 MEXIMIEUX
+1800002	1.420	1.600				        Dyneff	        SARL GARAGE ROUSSET	11 route de Port-Galland 01800 SAINT-MAURICE-DE-GOURDANS
+1800003	1.310	1.519	1.481	1.540		        Intermarché	        INTERMARCHE MEXIMIEUX	ROUTE DE CHALAMONT 01800 MEXIMIEUX
+1960001	1.302	1.499		1.535		        Carrefour Market	        Carrefour Market	Chemin de Bellevue 01960 PÉRONNAS
+1960004	1.374		1.529	1.589	0.894	        Agip	        AGIP PERONNAS	148 Avenue de Lyon 01960 PÉRONNAS
+1980001	1.360	1.558				        Total	        cst distribution	63 Rue du Bugey 01360 LOYETTES
+2000001	1.327	1.497		1.529		        Carrefour Market	        Carrefour Market Menu	RUE DU DOCTEUR MENU 02000 LAON
+2000002	1.319	1.486		1.529		        Carrefour	        Carrefour Laon	ZAC ILE DE FRANCE 02000 LAON
+2000003	1.339	1.519		1.549		        Carrefour Market	        Carrefour Market Christ	16 RUE FERNAND CHRIST 02000 LAON
+2000005	1.390		1.540	1.620		        Total	        GGE EUROPE AUTO	97 Avenue Charles de Gaulle 02000 LAON
+2000007	1.329		1.467	1.547		        Esso Express	        ESSO CARNOT LAON	16 Boulevard Pierre Brossolette 02000 LAON
+2000008	1.319	1.486		1.529	0.872	        Leclerc	        LAONDIS	rue Jean Jaures 02000 CHAMBRY
+2000009	1.320	1.487	1.457			        Intermarché	        INTERMARCHE LAON	167 Avenue Pierre Mendès France 02000 LAON
+2100001	1.319	1.489		1.525	0.829	        Auchan	        AUCHAN	Route d&#039;AMIENS 02100 SAINT-QUENTIN
+2100006	1.326		1.467	1.524		        Total Access	        RELAIS ST QUENTIN CAMILLE GUERIN	Boulevard Camille Guérin 02100 SAINT-QUENTIN
+2100008	1.329		1.467	1.517		        Esso Express	        ESSO FAIDHERBE	46 Avenue Faidherbe 02100 SAINT-QUENTIN
+2100009	1.309		1.439	1.514	0.820	        Leclerc	        CONTOYDIS	Route de Guise 02100 HARLY
+2100011	1.329		1.467	1.538		        Total Access	        POREZ AUTO LOCA STATION	98 rue Alexandre Dumas 02100 SAINT-QUENTIN
+2100012	1.305	1.459	1.424	1.508	0.818	        CORA	        CORA	Route de BOHAIN 02100 SAINT-QUENTIN
+2100013	1.331	1.502	1.480		0.859	        Intermarché	        INTERMARCHE SAINT-QUENTIN   /ZAC	Rue Antoine Parmentier 02100 SAINT-QUENTIN
+2100017	1.321	1.518		1.515		        Netto	        SARL MAROLEG	Rue de la Fère 02100 SAINT-QUENTIN
+2100018	1.382	1.575				        Indépendant sans enseigne	        DM Combustibles	25 Boulevard Victor Hugo 02100 SAINT-QUENTIN
+2100019	1.329	1.519		1.539		        Intermarché	        INTERMARCHE 153 Rue de Mulhouse	153 Rue de Mulhouse 02100 SAINT-QUENTIN
+2110001	1.410			1.630		        Total	        BILBAUT	Rue Olivier Deguise 02110 BOHAIN-EN-VERMANDOIS
+2110002	1.329	1.509	1.479			        Intermarché	        INTERMARCHE BOHAIN-EN-VERMANDOIS	22 rue de Vaux 02110 BOHAIN-EN-VERMANDOIS
+2110003	1.329	1.519		1.549		        Carrefour Market	        Carrefour Market	ROUTE DE SAINT QUENTIN 02110 BOHAIN-EN-VERMANDOIS
+2120002	1.408		1.544	1.624		        Total	        JEU DE PAUME	56 place du Jeu de Paume 02120 GUISE
+2120003	1.328	1.497		1.535		        Carrefour Market	        Carrefour Market	RUE SADI CARNOT 02120 GUISE
+2120004	1.328	1.497		1.535	0.859	        Intermarché	        INTERMARCHE GUISE	Rue des Docteurs Devillers 02120 GUISE
+2130001	1.319	1.509		1.545		        Système U	        SAS SOFERDIS	Rue du Stade 02130 FÈRE-EN-TARDENOIS
+2130003	1.484	1.614		1.674		        Avia	        STATION AVIA NORD	Aire de Tardenois - A4 02130 FRESNES-EN-TARDENOIS
+2130004	1.355	1.520		1.530		        Indépendant sans enseigne	        NETTO	Avenue de la Gare 02130 FÈRE-EN-TARDENOIS
+2130005	1.484		1.614	1.674		        Avia	        Aire de tardenois sud	autoroute A4 aire de tardenois sud 02130 FRESNES EN TARDENOIS
+2140002	1.345	1.517		1.551		        Carrefour Market	        Carrefour Market	Place Sohier 02140 VERVINS
+2140003	1.345	1.517		1.551		        Intermarché	        INTERMARCHE VERVINS	ZI de la Briquetterie 02140 VERVINS
+2140004	1.420		1.560	1.660		        Indépendant sans enseigne	        STATION GARAGE DEPANNAGE DE FONTAINE SGD	73, Hameau Chaussée de Fontaine - RN2 02140 FONTAINE-LÈS-VERVINS
+2170001	1.359	1.539		1.579		        Carrefour Market	        Carrefour Market	RUE DES VERRIERS 02170 LE NOUVION-EN-THIÉRACHE
+2190003	1.484		1.614	1.674	0.930	        Avia	        SARL MARCHAND	A26 - Aire du Champ Roland 02190 GUIGNICOURT
+2190004	1.339	1.529		1.509		        Carrefour Market	        Carrefour Market	3 Rue Pierre Curtil 02190 GUIGNICOURT
+2190005	1.484		1.614	1.674	0.930	        Avia	        Station AVIA	AUT A 26- AIRE DU MONT NIZY 02190 JUVINCOURT-ET-DAMARY
+2200001	1.302	1.458		1.522	0.783	        CORA	        CORA SOISSONS	3 Avenue Raymonde Fiolet 02200 SOISSONS
+2200002	1.307		1.466	1.532	0.794	        Total Access	        RELAIS STE EUGENIE	9 Rue de Villeneuve 02200 SOISSONS
+2200005	1.399		1.535	1.625		        Total	        RELAIS DE SOISSONS	50 Avenue de Château-Thierry 02200 SOISSONS
+2200006	1.388		1.532	1.612		        Total	        RELAIS DU MAUPAS	AVENUE DE COMPIEGNE 02200 MERCIN-ET-VAUX
